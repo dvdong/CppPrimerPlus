@@ -10,6 +10,8 @@ int main() {
     int yamcosts[3] = {20, 30, 5};
     cout << sizeof yams << endl;
     cout << sizeof yams[0] << endl;
+    cout << &yams << endl;
+    cout << yams << endl;
 
     return 0;
 }
