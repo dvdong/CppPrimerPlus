@@ -20,5 +20,9 @@ int main() {
 
     // cout << d.a << endl;
 
+    cout << sizeof(unsigned char) << endl;
+    
+    cout << (int *)"Home of the" << endl;
+
     return 0;
 }
